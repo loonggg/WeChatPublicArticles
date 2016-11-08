@@ -31,3 +31,23 @@
 * RN 技术系列文章，基础组件之 ListView 篇。
 
 <hr/>
+
+##### [[已推送]基础篇章：关于 React Native 之 Touchable 系列组件的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058331&idx=2&sn=a1ad00ebb177eb87036d9739ea4a53db&chksm=bd5656278a21df3123f685981978bd1486725ed9a60c1cb64d3c47585fdfae8b4ce78f0a5bb3#rd)
+
+>作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
+>推送时间:2016-11-03
+
+* RN 技术系列文章，基础组件之 Touchable 系列组件篇。
+
+<hr/>
+
+##### [[已推送]十分钟搞定酷炫动画，Android自定义 View 入门](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058326&idx=1&sn=7b901128747ff2d4e250912364656a5e&chksm=bd56562a8a21df3c60d38a6bbb3062101aea3d2a6787a5ff5fa734f304f35bbe6f7b7f222e47#rd)
+
+>作者：[Anonymous](http://www.jianshu.com/p/138ad32540ce)<br/>
+>推送时间:2016-11-02
+
+* 非常炫炫酷的开屏动画效果，学习自定义 View 非常好的一篇文章，而且能够学到动画和贝赛尔曲线的内容。
+
+<hr/>
+
+
