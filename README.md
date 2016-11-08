@@ -81,7 +81,6 @@
 
 ##### [[已推送]基础篇章：React Native之 Image 的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058279&idx=1&sn=b214c48d9b016c7394d3fbde47c94d08&chksm=bd5657db8a21decd44d7d02efba9b6e6a132c5e14c0bb30a79fdb6bfa23b933bb18049b6669e#rd)
 
-
 >作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
 >推送时间:2016-10-26
 
@@ -90,7 +89,6 @@
 <hr/>
 
 ##### [[已推送]与程序员节相比，我们更需要的是一种认可和尊重](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058276&idx=1&sn=b6d250a460c9248cf5e4561c78bfa4bc&chksm=bd5657d88a21dece39ab8d9224cc460b980045817ede0738633db81771144f936d04a5f460b6#rd)
-
 
 >作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058276&idx=1&sn=b6d250a460c9248cf5e4561c78bfa4bc&chksm=bd5657d88a21dece39ab8d9224cc460b980045817ede0738633db81771144f936d04a5f460b6#rd)<br/>
 >推送时间:2016-10-24
@@ -101,7 +99,6 @@
 
 ##### [[已推送]AndroidTShare Weekly No.13](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058273&idx=1&sn=38337288af19cb5b117352e763b3adf8&chksm=bd5657dd8a21decbf2a7f67f1268d551d415bb8476aa62fc89f95dc71bbd3b56e42c6e692f53#rd)
 
-
 >作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058273&idx=1&sn=38337288af19cb5b117352e763b3adf8&chksm=bd5657dd8a21decbf2a7f67f1268d551d415bb8476aa62fc89f95dc71bbd3b56e42c6e692f53#rd)整理总结<br/>
 >推送时间:2016-10-23
 
@@ -110,7 +107,6 @@
 <hr/>
 
 ##### [[已推送]BigBang源码分享:你想拥有Smartisan OS 3.0 BigBang效果吗？](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058264&idx=1&sn=fac4457950d22bb2100bf1093ca385c6&chksm=bd5657e48a21def24a17818ed4d3a2c74610d992103e6980ea79a5b657eb08f4dba787d5c9d5#rd)
-
 
 >作者：[baoyongzhang](https://github.com/baoyongzhang/BigBang)<br/>
 >推送时间:2016-10-23
@@ -121,11 +117,55 @@
 
 ##### [[已推送]没有黑科技，只有人性化设计，这是一堂经典的产品经理课](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058260&idx=1&sn=0b4ca5e8499b66de56227e33e73e3aa5&chksm=bd5657e88a21defeb85f7da8e22fab746d69c916dc1084944f6b3d41da88c4d535dcf454021c#rd)
 
-
 >作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058260&idx=1&sn=0b4ca5e8499b66de56227e33e73e3aa5&chksm=bd5657e88a21defeb85f7da8e22fab746d69c916dc1084944f6b3d41da88c4d535dcf454021c#rd)<br/>
 >推送时间:2016-10-19
 
 * 看老罗锤子科技发布会有感。
+
+<hr/>
+
+##### [[已推送]基础篇章：React Native 之 TextInput 的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058260&idx=2&sn=e450f121794b96020924a8688a3088da&chksm=bd5657e88a21defe47c6a94c7181ce145b58f573d0f4f6fa8ec4d4fda48bf8af39160b499e13#rd)
+
+>作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
+>推送时间:2016-10-19
+
+* RN 技术系列文章，基础组件之 TextInput 组件篇。
+
+<hr/>
+
+##### [[已推送]Android 7.1 开发者预览版就要来啦](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058253&idx=1&sn=b243eed130fb17ea36d1834112763926&chksm=bd5657f18a21dee789ae248cc10cafb101eb343c302838eaa63f700179c05554909bce9bad62#rd)
+
+>作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058253&idx=1&sn=b243eed130fb17ea36d1834112763926&chksm=bd5657f18a21dee789ae248cc10cafb101eb343c302838eaa63f700179c05554909bce9bad62#rd)<br/>
+>推送时间:2016-10-18
+
+* Android 7.1 开发者预览版即将发布。
+
+<hr/>
+
+##### [[已推送]基础篇章：React Native 之 View 和 Text 的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058253&idx=2&sn=573e8961ffa899d01771b2d266cc06a0&chksm=bd5657f18a21dee7fb6251b5499b2924c89f82a103779eefea5a1a2b0fded6ae2fbef8e4482c#rd)
+
+>作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
+>推送时间:2016-10-18
+
+* RN 技术系列文章，基础组件之 View 和 Text 组件篇。
+
+<hr/>
+
+##### [[已推送]基础篇章：React Native之Flexbox的讲解（Height and Width）](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058247&idx=1&sn=0244919cb0cb884e81c2af765adab063&chksm=bd5657fb8a21deed5f0e0a1e58371e114872ff2c54cdb4d14e8d32114b85a012916ea3b3d01c#rd)
+
+>作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
+>推送时间:2016-10-16
+
+* RN 技术系列文章，基础组件之 Flexbox 组件篇。
+
+<hr/>
+
+##### [[已推送]AndroidTShare Weekly No.12](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058247&idx=2&sn=a87b809d8289bd904b8960f6cea5ab2b&chksm=bd5657fb8a21deed1e4847b5078c26d1c302f72ae960dc08127ec8df9d3e006cdbc9056ec832#rd)
+
+>作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058247&idx=2&sn=a87b809d8289bd904b8960f6cea5ab2b&chksm=bd5657fb8a21deed1e4847b5078c26d1c302f72ae960dc08127ec8df9d3e006cdbc9056ec832#rd)总结整理<br/>
+>推送时间:2016-10-16
+
+* 非著名程序员周报第十二期。
 
 <hr/>
 
