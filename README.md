@@ -5,6 +5,15 @@
 
 ## 『非著名程序员』公众号已推送文章列表
 
+##### [[已推送]Android自定义 View 实战之 StickerView](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058348&idx=1&sn=3975b4150564f458369b7e2d74851d11&chksm=bd5656108a21df06ebba9b5e866963ae753b4c251f51943ac9a1c3e48faaa06c972d90d243a1#rd)
+
+>作者：[飞翔的荷兰豆](http://www.jianshu.com/p/fc37baa97fc3)<br/>
+>推送时间:2016-11-08
+
+* StickerView 添加各种可爱的贴图到图片上的功能，然后我们可以对图片进行移动、旋转、缩放、翻转之类的操作，本文制作的View正是为了实现这个功能。
+
+<hr/>
+
 ##### [[已推送]迎合别人，还是坚持自己？](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058345&idx=1&sn=9bfb76fb2c7a98699f0cd58fe289d307&chksm=bd5656158a21df03526e3dd44199c994e2d628487d1cb3279b57033bdb893dd1259e5bc58c40#rd)
 
 >作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058345&idx=1&sn=9bfb76fb2c7a98699f0cd58fe289d307&chksm=bd5656158a21df03526e3dd44199c994e2d628487d1cb3279b57033bdb893dd1259e5bc58c40#rd)<br/>
