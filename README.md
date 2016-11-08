@@ -26,7 +26,7 @@
 ##### [[已推送]基础篇章：关于 React Native 之 ListView 组件的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058331&idx=1&sn=145db2e8329271e9d71e650083076b71&chksm=bd5656278a21df316a35b1fd0c6e8eca1b4c08f1c92a477fbd82686cae81a4f20b26b3ca235f#rd)
 
 >作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
->推送时间:2016-11-04
+>推送时间:2016-11-03
 
 * RN 技术系列文章，基础组件之 ListView 篇。
 
