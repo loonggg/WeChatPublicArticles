@@ -53,7 +53,7 @@
 
 ##### [[已推送]AndroidTShare Weekly No.14](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058309&idx=1&sn=241a5618ab95cc983182f055fbe54388&chksm=bd5656398a21df2f39678e3551cc4f28c44093565275087cdc17cdece75bff2ac65ce6a0a769#rd)
 
->作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058309&idx=1&sn=241a5618ab95cc983182f055fbe54388&chksm=bd5656398a21df2f39678e3551cc4f28c44093565275087cdc17cdece75bff2ac65ce6a0a769#rd)整理总结<br/>
+>作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058309&idx=1&sn=241a5618ab95cc983182f055fbe54388&chksm=bd5656398a21df2f39678e3551cc4f28c44093565275087cdc17cdece75bff2ac65ce6a0a769#rd)总结整理<br/>
 >推送时间:2016-10-31
 
 * 非著名程序员第十四期周报总结和整理。
@@ -99,7 +99,7 @@
 
 ##### [[已推送]AndroidTShare Weekly No.13](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058273&idx=1&sn=38337288af19cb5b117352e763b3adf8&chksm=bd5657dd8a21decbf2a7f67f1268d551d415bb8476aa62fc89f95dc71bbd3b56e42c6e692f53#rd)
 
->作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058273&idx=1&sn=38337288af19cb5b117352e763b3adf8&chksm=bd5657dd8a21decbf2a7f67f1268d551d415bb8476aa62fc89f95dc71bbd3b56e42c6e692f53#rd)整理总结<br/>
+>作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058273&idx=1&sn=38337288af19cb5b117352e763b3adf8&chksm=bd5657dd8a21decbf2a7f67f1268d551d415bb8476aa62fc89f95dc71bbd3b56e42c6e692f53#rd)总结整理<br/>
 >推送时间:2016-10-23
 
 * 非著名程序员周报第十三期。
