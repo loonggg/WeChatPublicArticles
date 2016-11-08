@@ -119,6 +119,18 @@
 
 <hr/>
 
+##### [[已推送]没有黑科技，只有人性化设计，这是一堂经典的产品经理课](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058260&idx=1&sn=0b4ca5e8499b66de56227e33e73e3aa5&chksm=bd5657e88a21defeb85f7da8e22fab746d69c916dc1084944f6b3d41da88c4d535dcf454021c#rd)
+
+
+>作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058260&idx=1&sn=0b4ca5e8499b66de56227e33e73e3aa5&chksm=bd5657e88a21defeb85f7da8e22fab746d69c916dc1084944f6b3d41da88c4d535dcf454021c#rd)<br/>
+>推送时间:2016-10-19
+
+* 看老罗锤子科技发布会有感。
+
+<hr/>
+
 ### 微信公众号
 欢迎大家关注我的微信公众号：非著名程序员（smart_android），更多好的原创文章均首发于微信订阅号：非著名程序员
 ![](https://raw.githubusercontent.com/loonggg/BlogImages/master/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81/erweima.jpg)
+
+
