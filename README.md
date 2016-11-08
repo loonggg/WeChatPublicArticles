@@ -51,3 +51,42 @@
 <hr/>
 
 
+##### [[已推送]AndroidTShare Weekly No.14](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058309&idx=1&sn=241a5618ab95cc983182f055fbe54388&chksm=bd5656398a21df2f39678e3551cc4f28c44093565275087cdc17cdece75bff2ac65ce6a0a769#rd)
+
+>作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058309&idx=1&sn=241a5618ab95cc983182f055fbe54388&chksm=bd5656398a21df2f39678e3551cc4f28c44093565275087cdc17cdece75bff2ac65ce6a0a769#rd)整理总结<br/>
+>推送时间:2016-10-31
+
+* 非著名程序员第十四期周报总结和整理。
+
+<hr/>
+
+
+##### [[已推送]基础篇章：React Native之 ScrollView 的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058298&idx=1&sn=604d96f5f5156f13d4d0b75940b66634&chksm=bd5657c68a21ded0ef2cf14cb5a1041b2e0b9918c502439ea32ac634e358fbb1e420f8588bff#rd)
+
+>作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
+>推送时间:2016-10-30
+
+* RN 技术系列文章，基础组件之 ScrollView 组件篇。
+
+<hr/>
+
+##### [[已推送]Android自定义ViewGroup神器-ViewDragHelper](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058290&idx=1&sn=6bd69194a5aa23a6e574e8a3a83c1fcf&chksm=bd5657ce8a21ded8283933733e7e4644f486b63f8e70d6558a633809fa09fe818ca2322d3acf#rd)
+
+>作者：[zhuhf](http://www.jianshu.com/p/111a7bc76a0e)<br/>
+>推送时间:2016-10-27
+
+* 一个可以帮助 View 动态拖拽滑动的帮助类。
+
+<hr/>
+
+##### [[已推送]基础篇章：React Native之 Image 的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058279&idx=1&sn=b214c48d9b016c7394d3fbde47c94d08&chksm=bd5657db8a21decd44d7d02efba9b6e6a132c5e14c0bb30a79fdb6bfa23b933bb18049b6669e#rd)
+
+
+>作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
+>推送时间:2016-10-26
+
+* RN 技术系列文章，基础组件之 Image 组件篇。
+
+<hr/>
+
+
