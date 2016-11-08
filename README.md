@@ -89,4 +89,34 @@
 
 <hr/>
 
+##### [[已推送]与程序员节相比，我们更需要的是一种认可和尊重](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058276&idx=1&sn=b6d250a460c9248cf5e4561c78bfa4bc&chksm=bd5657d88a21dece39ab8d9224cc460b980045817ede0738633db81771144f936d04a5f460b6#rd)
+
+
+>作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058276&idx=1&sn=b6d250a460c9248cf5e4561c78bfa4bc&chksm=bd5657d88a21dece39ab8d9224cc460b980045817ede0738633db81771144f936d04a5f460b6#rd)<br/>
+>推送时间:2016-10-24
+
+* 中国程序员节瞎写的感慨和一点点不成熟的思考。
+
+<hr/>
+
+##### [[已推送]AndroidTShare Weekly No.13](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058273&idx=1&sn=38337288af19cb5b117352e763b3adf8&chksm=bd5657dd8a21decbf2a7f67f1268d551d415bb8476aa62fc89f95dc71bbd3b56e42c6e692f53#rd)
+
+
+>作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058273&idx=1&sn=38337288af19cb5b117352e763b3adf8&chksm=bd5657dd8a21decbf2a7f67f1268d551d415bb8476aa62fc89f95dc71bbd3b56e42c6e692f53#rd)整理总结<br/>
+>推送时间:2016-10-23
+
+* 非著名程序员周报第十三期。
+
+<hr/>
+
+##### [[已推送]BigBang源码分享:你想拥有Smartisan OS 3.0 BigBang效果吗？](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058264&idx=1&sn=fac4457950d22bb2100bf1093ca385c6&chksm=bd5657e48a21def24a17818ed4d3a2c74610d992103e6980ea79a5b657eb08f4dba787d5c9d5#rd)
+
+
+>作者：[baoyongzhang](https://github.com/baoyongzhang/BigBang)<br/>
+>推送时间:2016-10-23
+
+* 文字大爆炸效果，率先推出开源的源码 demo 。
+
+<hr/>
+
 
