@@ -187,9 +187,20 @@
 
 <hr/>
 
+##### [[已推送]我想说的和你们想要的](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058239&idx=1&sn=5ec81da9763563ede8e0ba2a1d6cd85b#rd)
+
+>作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058239&idx=1&sn=5ec81da9763563ede8e0ba2a1d6cd85b#rd)<br/>
+>推送时间:2016-10-13
+
+* 里面内含很多有关 RN 的知识和 ES6 的在线文档等，你们不容错过。
+
+<hr/>
+
+
 ### 微信公众号
 欢迎大家关注我的微信公众号：非著名程序员（smart_android），更多好的原创文章均首发于微信订阅号：非著名程序员
 ![](https://raw.githubusercontent.com/loonggg/BlogImages/master/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81/erweima.jpg)
+
 
 >特别说明：文章排版借鉴于[鸿洋大神](https://github.com/loonggg/hongyangWeixinArticles)的公众号内容排版方式。
 
