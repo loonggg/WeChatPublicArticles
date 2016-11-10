@@ -5,6 +5,15 @@
 
 ## 『非著名程序员』公众号已推送文章列表
 
+##### [[已推送]基础篇章：关于 React Native 之 RefreshControl 组件的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058352&idx=1&sn=3a996b79079718f25a9f09488a8f4193&chksm=bd56560c8a21df1ae0855568809ddd419819e228a5817bfbb7c3ed685f987bc23c5a4869d456#rd)
+
+>作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
+>推送时间:2016-11-10
+
+* RN 技术系列文章，基础组件之 RefreshControl 篇。
+
+<hr/>
+
 ##### [[已推送]Android自定义 View 实战之 StickerView](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058348&idx=1&sn=3975b4150564f458369b7e2d74851d11&chksm=bd5656108a21df06ebba9b5e866963ae753b4c251f51943ac9a1c3e48faaa06c972d90d243a1#rd)
 
 >作者：[飞翔的荷兰豆](http://www.jianshu.com/p/fc37baa97fc3)<br/>
