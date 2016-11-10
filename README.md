@@ -191,4 +191,6 @@
 欢迎大家关注我的微信公众号：非著名程序员（smart_android），更多好的原创文章均首发于微信订阅号：非著名程序员
 ![](https://raw.githubusercontent.com/loonggg/BlogImages/master/%E5%85%AC%E4%BC%97%E5%8F%B7%E4%BA%8C%E7%BB%B4%E7%A0%81/erweima.jpg)
 
+>特别说明：文章排版借鉴于[鸿洋大神](https://github.com/loonggg/hongyangWeixinArticles)的公众号内容排版方式。
+
 
