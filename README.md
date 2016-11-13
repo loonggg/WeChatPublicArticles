@@ -205,6 +205,23 @@
 
 <hr/>
 
+##### [[已推送]一个类似于进度和打卡进度的自定义view](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058235&idx=2&sn=917e091cdaf9088e5e056e4c90fca75b#rd)
+
+>作者：[givemeacondom](http://blog.csdn.net/givemeacondom/article/details/52780772)<br/>
+>推送时间:2016-10-12
+
+* 一个类似于进度和打卡进度的自定义view 。
+
+<hr/>
+
+##### [[已推送]环境配置：React Native智能开发工具，可代码提醒的IDE—VS Code](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058224&idx=1&sn=553b4ce24b22680d8f46cba082eb8661#rd)
+
+>作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
+>推送时间:2016-10-10
+
+* RN 技术系列文章，环境配置篇之React Native智能开发工具，可代码提醒的IDE—VS Code。
+
+<hr/>
 
 ### 微信公众号
 欢迎大家关注我的微信公众号：非著名程序员（smart_android），更多好的原创文章均首发于微信订阅号：非著名程序员
