@@ -196,6 +196,15 @@
 
 <hr/>
 
+##### [[已推送]基础篇章：关于 React Native 的props，state，style的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058235&idx=1&sn=ab7ef845c0d4e13e6c679b1506920ff4#rd)
+
+>作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
+>推送时间:2016-10-12
+
+* RN 技术系列文章，基础组件之 props，state，style 的讲解。
+
+<hr/>
+
 
 ### 微信公众号
 欢迎大家关注我的微信公众号：非著名程序员（smart_android），更多好的原创文章均首发于微信订阅号：非著名程序员
