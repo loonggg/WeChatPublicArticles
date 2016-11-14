@@ -5,6 +5,25 @@
 
 ## 『非著名程序员』公众号已推送文章列表
 
+
+##### [[已推送]基础篇章：关于 React Native 之 Navigator 组件的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058360&idx=2&sn=a99d3dd6ca8d2ef943d7e3895134afe5&chksm=bd5656048a21df1225465f60085b19eebe96678f81d65f527e5393a7fb4375d90e9edb2f6452#rd)
+
+>作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
+>推送时间:2016-11-13
+
+* RN 技术系列文章，基础组件之 Navigator 篇。
+
+<hr/>
+
+##### [[已推送]AndroidTShare Weekly No.15](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058360&idx=1&sn=2401c80ed5e5a968a2a3f78f60a200dd&chksm=bd5656048a21df121952774ebb32547838d21b3754b573c4e68bb184f5251268bc845307bfd5#rd)
+
+>作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058360&idx=1&sn=2401c80ed5e5a968a2a3f78f60a200dd&chksm=bd5656048a21df121952774ebb32547838d21b3754b573c4e68bb184f5251268bc845307bfd5#rd)总结整理<br/>
+>推送时间:2016-11-13
+
+* 非著名程序员第十五期周报总结和整理。
+
+<hr/>
+
 ##### [[已推送]基础篇章：关于 React Native 之 RefreshControl 组件的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058352&idx=1&sn=3a996b79079718f25a9f09488a8f4193&chksm=bd56560c8a21df1ae0855568809ddd419819e228a5817bfbb7c3ed685f987bc23c5a4869d456#rd)
 
 >作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
