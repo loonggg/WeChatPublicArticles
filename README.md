@@ -6,6 +6,15 @@
 ## 『非著名程序员』公众号已推送文章列表
 
 
+##### [[已推送]Android M 权限最佳实践](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058365&idx=1&sn=022b5828d1711a4efb5fbb6f17abae68&chksm=bd5656018a21df1765e6b272fdecd03a4cd6ccb6784b60842cddf32e8ee5a51dc9fdd26ee4c8#rd)
+
+>作者：[陈威(Hander)](http://chen-wei.me/2016/11/10/android-permission-best-practice/)<br/>
+>推送时间:2016-11-13
+
+* Android M 权限最佳实践，帮你们踩坑的一篇文章，值得一看。
+
+<hr/>
+
 ##### [[已推送]基础篇章：关于 React Native 之 Navigator 组件的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058360&idx=2&sn=a99d3dd6ca8d2ef943d7e3895134afe5&chksm=bd5656048a21df1225465f60085b19eebe96678f81d65f527e5393a7fb4375d90e9edb2f6452#rd)
 
 >作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
