@@ -5,6 +5,14 @@
 
 ## 『非著名程序员』公众号已推送文章列表
 
+##### [[已推送]Android 危机，谷歌推出 Andromeda OS , 你怎么看？](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058373&idx=1&sn=d3fbd7aaa1b1dee9384386de9989945b&chksm=bd5656798a21df6fdfbbfc51d535e85dd64eaeb19e295500dc6f506588b17a80070abdae2a2f#rd)
+
+>作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058373&idx=1&sn=d3fbd7aaa1b1dee9384386de9989945b&chksm=bd5656798a21df6fdfbbfc51d535e85dd64eaeb19e295500dc6f506588b17a80070abdae2a2f#rd)<br/>
+>推送时间:2016-11-18
+
+* Android 危机，谷歌推出 Andromeda OS , 你怎么看？
+
+<hr/>
 
 ##### [[已推送]基础篇章：关于 React Native 之 ToolbarAndroid 组件的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058370&idx=1&sn=614fe7d29d233ad646c0b8f95bb43a44&chksm=bd56567e8a21df68425fd078621c20916a15ad22e50e27c93d3fca5ae9477d876acee22c714a#rd)
 
