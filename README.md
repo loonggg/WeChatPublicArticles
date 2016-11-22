@@ -5,6 +5,24 @@
 
 ## 『非著名程序员』公众号已推送文章列表
 
+##### [[已推送]Android 实现视屏播放器、边播边缓存功能、外加铲屎（IJKPlayer）](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058386&idx=1&sn=9d561ce6a0f068907904813173a64d0e&chksm=bd56566e8a21df78f4254825474371a26e362dea4d085af7fdcc820ed302dc1fd39d56fc5043#rd)
+
+>作者：[恋猫月亮](http://www.jianshu.com/p/9fe377dd9750)<br/>
+>推送时间:2016-11-19
+
+* Android 实现视屏播放器、边播边缓存功能、外加铲屎（IJKPlayer）。
+
+<hr/>
+
+##### [[已推送]用生命在测试的程序员，且码且珍惜啊！](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058377&idx=1&sn=9acf3589eafec705b96879ac3a2fbe83&chksm=bd5656758a21df63b7eba92249d1a313184e78b7f1bdcf5717ccfac2617bb4da41a0a21014ed#rd)
+
+>作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058377&idx=1&sn=9acf3589eafec705b96879ac3a2fbe83&chksm=bd5656758a21df63b7eba92249d1a313184e78b7f1bdcf5717ccfac2617bb4da41a0a21014ed#rd)<br/>
+>推送时间:2016-11-19
+
+* 用生命在测试的程序员，且码且珍惜啊！
+
+<hr/>
+
 ##### [[已推送]Android 危机，谷歌推出 Andromeda OS , 你怎么看？](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058373&idx=1&sn=d3fbd7aaa1b1dee9384386de9989945b&chksm=bd5656798a21df6fdfbbfc51d535e85dd64eaeb19e295500dc6f506588b17a80070abdae2a2f#rd)
 
 >作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058373&idx=1&sn=d3fbd7aaa1b1dee9384386de9989945b&chksm=bd5656798a21df6fdfbbfc51d535e85dd64eaeb19e295500dc6f506588b17a80070abdae2a2f#rd)<br/>
