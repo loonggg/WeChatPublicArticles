@@ -8,7 +8,7 @@
 ##### [[已推送]Android 实现视屏播放器、边播边缓存功能、外加铲屎（IJKPlayer）](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058386&idx=1&sn=9d561ce6a0f068907904813173a64d0e&chksm=bd56566e8a21df78f4254825474371a26e362dea4d085af7fdcc820ed302dc1fd39d56fc5043#rd)
 
 >作者：[恋猫月亮](http://www.jianshu.com/p/9fe377dd9750)<br/>
->推送时间:2016-11-19
+>推送时间:2016-11-21
 
 * Android 实现视屏播放器、边播边缓存功能、外加铲屎（IJKPlayer）。
 
