@@ -5,6 +5,15 @@
 
 ## 『非著名程序员』公众号已推送文章列表
 
+##### [[已推送]基础篇章：关于 React Native 之 Switch 和 ProgressBarAndroid 组件的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058389&idx=1&sn=c89c3f4b8ba0b38a986538058446d55d&chksm=bd5656698a21df7f40e61717ef9168ffccabc1395454de956abb9aa752db5d9f808c70faf5e2#rd)
+
+>作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
+>推送时间:2016-11-16
+
+* RN 技术系列文章，基础组件之 Switch 和 ProgressBarAndroid 篇。
+
+<hr/>
+
 ##### [[已推送]Android 实现视屏播放器、边播边缓存功能、外加铲屎（IJKPlayer）](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058386&idx=1&sn=9d561ce6a0f068907904813173a64d0e&chksm=bd56566e8a21df78f4254825474371a26e362dea4d085af7fdcc820ed302dc1fd39d56fc5043#rd)
 
 >作者：[恋猫月亮](http://www.jianshu.com/p/9fe377dd9750)<br/>
