@@ -8,7 +8,7 @@
 ##### [[已推送]2017年秋季校招面经）](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058392&idx=1&sn=ddca7d989981efc8abc745f576a6189e&chksm=bd5656648a21df72b8ad22efea042177bfb0ae9a2748c0f5ef6cfe94c0dc3dd02d18674a5648#rd)
 
 >作者：[huachao1001](http://www.jianshu.com/p/8dbc746b78ea)<br/>
->推送时间:2016-11-20
+>推送时间:2016-11-25
 
 * 2017年秋季校招面试经历。
 
