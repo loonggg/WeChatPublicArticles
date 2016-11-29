@@ -5,7 +5,16 @@
 
 ## 『非著名程序员』公众号已推送文章列表
 
-##### [[已推送]程序员的技术修炼如登峰，到不了顶也要努力向上攀！）](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058397&idx=1&sn=649839e64e71325bf6f6cf7bd4ed02ff&chksm=bd5656618a21df7708a50c9f5aaa61232a0a091a7198b1e513e4532988831c809eac0cb9d226#rd)
+##### [[已推送]基础篇章：关于 React Native之 ActivityIndicator 组件的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058397&idx=2&sn=7749cf4a82e91b03c62030321e77b493&chksm=bd5656618a21df774057c63ddfdc3e056ba5e814b91b81f5ebb76b31a778c958976ca9a6da67#rd)
+
+>作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
+>推送时间:2016-11-27
+
+* RN 技术系列文章，基础组件之 ActivityIndicator 篇。
+
+<hr/>
+
+##### [[已推送]程序员的技术修炼如登峰，到不了顶也要努力向上攀！](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058397&idx=1&sn=649839e64e71325bf6f6cf7bd4ed02ff&chksm=bd5656618a21df7708a50c9f5aaa61232a0a091a7198b1e513e4532988831c809eac0cb9d226#rd)
 
 >作者：[ milter](http://www.jianshu.com/p/46e0ec46c171)<br/>
 >推送时间:2016-11-27
@@ -14,7 +23,7 @@
 
 <hr/>
 
-##### [[已推送]2017年秋季校招面经）](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058392&idx=1&sn=ddca7d989981efc8abc745f576a6189e&chksm=bd5656648a21df72b8ad22efea042177bfb0ae9a2748c0f5ef6cfe94c0dc3dd02d18674a5648#rd)
+##### [[已推送]2017年秋季校招面经](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058392&idx=1&sn=ddca7d989981efc8abc745f576a6189e&chksm=bd5656648a21df72b8ad22efea042177bfb0ae9a2748c0f5ef6cfe94c0dc3dd02d18674a5648#rd)
 
 >作者：[huachao1001](http://www.jianshu.com/p/8dbc746b78ea)<br/>
 >推送时间:2016-11-25
