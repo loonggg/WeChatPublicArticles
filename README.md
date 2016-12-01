@@ -5,6 +5,15 @@
 
 ## 『非著名程序员』公众号已推送文章列表
 
+##### [[已推送]Retrofit2.0通俗易懂的学习姿势，Retrofit2.0 + OkHttp3 + Gson + RxJava](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058400&idx=1&sn=2c437b464df88d836201d02584018983&chksm=bd56565c8a21df4a4423f4cc17aeb1cbf29b9b819ae39c2ab7a505def1ef5915e5f3a1e5d60d#rd)
+
+>作者：[刘桂林](http://blog.csdn.net/qq_26787115/article/details/53034267)<br/>
+>推送时间:2016-11-29
+
+* Retrofit2.0通俗易懂的学习姿势，Retrofit2.0 + OkHttp3 + Gson + RxJava。
+
+<hr/>
+
 ##### [[已推送]基础篇章：关于 React Native之 ActivityIndicator 组件的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058397&idx=2&sn=7749cf4a82e91b03c62030321e77b493&chksm=bd5656618a21df774057c63ddfdc3e056ba5e814b91b81f5ebb76b31a778c958976ca9a6da67#rd)
 
 >作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
