@@ -5,6 +5,15 @@
 
 ## 『非著名程序员』公众号已推送文章列表
 
+##### [[已推送]基础篇章：关于 React Native 之 ViewPagerAndroid 组件的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058404&idx=1&sn=1606701d2a9e5e702123a91a2a19231c&chksm=bd5656588a21df4e5433c2bc224b4ec8ae77cca912985ee878ebff037a5efc4c2e5b74c9dc09#rd)
+
+>作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
+>推送时间:2016-12-01
+
+* RN 技术系列文章，基础组件之 ViewPagerAndroid 篇。
+
+<hr/>
+
 ##### [[已推送]Retrofit2.0通俗易懂的学习姿势，Retrofit2.0 + OkHttp3 + Gson + RxJava](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058400&idx=1&sn=2c437b464df88d836201d02584018983&chksm=bd56565c8a21df4a4423f4cc17aeb1cbf29b9b819ae39c2ab7a505def1ef5915e5f3a1e5d60d#rd)
 
 >作者：[刘桂林](http://blog.csdn.net/qq_26787115/article/details/53034267)<br/>
