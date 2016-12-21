@@ -5,6 +5,15 @@
 
 ## 『非著名程序员』公众号已推送文章列表
 
+##### [[已推送]心烦意乱，可能最近我有点懒 ](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058407&idx=1&sn=d217fbb78118f5875661cede720e10fb&chksm=bd56565b8a21df4d2edcc8541d3b4ee72a1cd7ca061bc9b7f9d285cf6eefdcffd9580614704a#rd)
+
+>作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058407&idx=1&sn=d217fbb78118f5875661cede720e10fb&chksm=bd56565b8a21df4d2edcc8541d3b4ee72a1cd7ca061bc9b7f9d285cf6eefdcffd9580614704a#rd)<br/>
+>推送时间:2016-12-04
+
+* 最近的一些感慨，心烦意乱，可能最近我有点懒，仅仅是发发牢骚。
+
+<hr/>
+
 ##### [[已推送]基础篇章：关于 React Native 之 ViewPagerAndroid 组件的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058404&idx=1&sn=1606701d2a9e5e702123a91a2a19231c&chksm=bd5656588a21df4e5433c2bc224b4ec8ae77cca912985ee878ebff037a5efc4c2e5b74c9dc09#rd)
 
 >作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
