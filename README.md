@@ -5,7 +5,16 @@
 
 ## 『非著名程序员』公众号已推送文章列表
 
-##### [[已推送]心烦意乱，可能最近我有点懒 ](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058407&idx=1&sn=d217fbb78118f5875661cede720e10fb&chksm=bd56565b8a21df4d2edcc8541d3b4ee72a1cd7ca061bc9b7f9d285cf6eefdcffd9580614704a#rd)
+##### [[已推送]最好的产品就是致力于为大家提供最优的使用体验和服务](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058413&idx=1&sn=7537bcb61ef48b154979321f344fb9a5&chksm=bd5656518a21df473826aee9b936a413847bc14e9337c2a955390976d5e1f6e91bc295fc6005#rd)
+
+>作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058413&idx=1&sn=7537bcb61ef48b154979321f344fb9a5&chksm=bd5656518a21df473826aee9b936a413847bc14e9337c2a955390976d5e1f6e91bc295fc6005#rd)<br/>
+>推送时间:2016-12-06
+
+* 我的微信公众号终于有了历史文章和消息的搜索功能，其实以后你们可以不用关注我的这个github了。哈哈……
+
+<hr/>
+
+##### [[已推送]心烦意乱，可能最近我有点懒](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058407&idx=1&sn=d217fbb78118f5875661cede720e10fb&chksm=bd56565b8a21df4d2edcc8541d3b4ee72a1cd7ca061bc9b7f9d285cf6eefdcffd9580614704a#rd)
 
 >作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058407&idx=1&sn=d217fbb78118f5875661cede720e10fb&chksm=bd56565b8a21df4d2edcc8541d3b4ee72a1cd7ca061bc9b7f9d285cf6eefdcffd9580614704a#rd)<br/>
 >推送时间:2016-12-04
