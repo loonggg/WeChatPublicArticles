@@ -5,6 +5,15 @@
 
 ## 『非著名程序员』公众号已推送文章列表
 
+##### [[已推送]基础篇章：关于 React Native 之 Picker 组件的讲解](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058421&idx=2&sn=06e42bfe24f72672e3f368af7a4a906e&chksm=bd5656498a21df5f9b32fd6b6db612b5810dc3b2cb494518c799c74fee1b9a71ee7cc35382cb#rd)
+
+>作者：[loonggg](http://godcoder.me/categories/%E6%8A%80%E6%9C%AF%E5%8D%9A%E5%AE%A2/React-Native/)<br/>
+>推送时间:2016-12-07
+
+* RN 技术系列文章，基础组件之 Picker 篇。
+
+<hr/>
+
 ##### [[已推送]最好的产品就是致力于为大家提供最优的使用体验和服务](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058413&idx=1&sn=7537bcb61ef48b154979321f344fb9a5&chksm=bd5656518a21df473826aee9b936a413847bc14e9337c2a955390976d5e1f6e91bc295fc6005#rd)
 
 >作者：[loonggg](http://mp.weixin.qq.com/s?__biz=MjM5NDkxMTgyNw==&mid=2653058413&idx=1&sn=7537bcb61ef48b154979321f344fb9a5&chksm=bd5656518a21df473826aee9b936a413847bc14e9337c2a955390976d5e1f6e91bc295fc6005#rd)<br/>
